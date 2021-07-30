@@ -6,4 +6,4 @@ This leads to the necessity of the connection between R and Java. For this purpo
 
 With detailed screen captures, let’s find the efficient way to use rJava in Eclipse. For convenience, we assume R and Eclipse are installed already.
 
-The rest of the codeset is attached in the .docx file with this repository.
+The rest of the codeset is attached in the .pdf file with this repository.
